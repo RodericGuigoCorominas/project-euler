@@ -1,19 +1,17 @@
 # Project Euler 
 <https://projecteuler.net/about>
 
-Project Euler problems are a fun and enlightening way to learn both math and programming languages. Publishing solutions is totally and against the website policy and lame, so this is limited to sharing basic mathematical or programming theory that can shed some light to the problems. I've linked some of the articles I have come across and listed problems they could be relevant for. This is not exhaustive nor fully updated. 
+Project Euler problems are a fun and enlightening way to learn both math and programming languages. Publishing solutions is pointless and against the website policy, so this is limited to sharing basic mathematical or programming theory that can shed some light to the problems. I've linked some of the articles I have come across and listed problems they could be relevant for. This is not exhaustive nor fully updated. 
 
 My current progress: 
 
-[](rudarik_progress.png)
+![](rudarik_progress.png)
 
 * [Partitions](https://en.wikipedia.org/wiki/Partition_(number_theory))
 Problem 76: "Counting Summations", Problem 77: "Prime summations", Problem 78: "Coin partitions". 
 
 * [Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
 Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains"
-
-* [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 
 * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 Problem 83: "Path sum, four ways" 
@@ -39,8 +37,15 @@ Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends"
 * [Cycloid](https://en.wikipedia.org/wiki/Cycloid)
 Problem 525: "Rolling ellipse"
 
+*[Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
+Problem 401: "Sum of squares of divisors"
+
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+
+* [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 
 * [Pythagorean Triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
 
 * [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series)
+
+*[Faulhaber's formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
