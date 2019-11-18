@@ -39,7 +39,7 @@ Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends"
 * [Cycloid](https://en.wikipedia.org/wiki/Cycloid)
 Problem 525: "Rolling ellipse"
 
-*[Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
+* [Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
 Problem 401: "Sum of squares of divisors"
 
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
@@ -50,4 +50,4 @@ Problem 401: "Sum of squares of divisors"
 
 * [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series)
 
-*[Faulhaber's formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
+* [Faulhaber's formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
