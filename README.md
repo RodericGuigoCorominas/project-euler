@@ -3,6 +3,8 @@
 
 Project Euler problems are a fun and enlightening way to learn both math and programming languages. Publishing solutions is pointless and against the website policy, so this is limited to sharing basic mathematical or programming theory that can shed some light to the problems. I've linked some of the articles I have come across and listed problems they could be relevant for. This is not exhaustive nor fully updated. 
 
+Search for a problem number and see if you are lucky!
+
 My current progress: 
 
 ![](rudarik_progress.png)
