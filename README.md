@@ -1,5 +1,5 @@
 # Project Euler 
-### <https://projecteuler.net/about>
+<https://projecteuler.net/about>
 
 Project Euler problems are a fun and enlightening way to learn both math and programming languages. Publishing solutions is totally and against the website policy and lame, so this is limited to sharing basic mathematical or programming theory that can shed some light to the problems. I've linked some of the articles I have come across and listed problems they could be relevant for. This is not exhaustive nor fully updated. 
 
@@ -11,7 +11,7 @@ My current progress:
 Problem 76: "Counting Summations", Problem 77: "Prime summations", Problem 78: "Coin partitions". 
 
 * [Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
-Problems 69: "Totient maximum", Problem 70: "Totient permutation".
+Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains"
 
 * [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 
@@ -33,7 +33,8 @@ Problem 233: "Lattice points on a circle"
 * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
 Problem 101: "Optimum polynomial"
 
-* [Fibonacci Sequence]
+* [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_number)
+Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends"
 
 * [Cycloid](https://en.wikipedia.org/wiki/Cycloid)
 Problem 525: "Rolling ellipse"
