@@ -48,7 +48,7 @@ Problem 203: "Squarefree Binomial Coefficients", Problem 231: "The prime factori
 * [Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
 Problem 401: "Sum of squares of divisors"
 
-* [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm]
+* [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
 Problem 107: "Minimal network"
 
 * [Multinomial coefficient](https://en.wikipedia.org/wiki/Multinomial_theorem)
