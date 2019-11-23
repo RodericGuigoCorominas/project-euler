@@ -13,7 +13,7 @@ My current progress:
 Problem 76: "Counting Summations", Problem 77: "Prime summations", Problem 78: "Coin partitions". 
 
 * [Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
-Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains", Problem 243: "Resilience"
+Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains", Problem 243: "Resilience", Problem 351: "Hexagonal orchards"
 
 * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 Problem 83: "Path sum, four ways" 
@@ -89,6 +89,8 @@ Problem 504: "Square on the Inside"
 
 * [Refraction](https://en.wikipedia.org/wiki/Refraction)
 Problem 607: "Marsh Crossing"
+
+*[Mobius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
 * [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 
