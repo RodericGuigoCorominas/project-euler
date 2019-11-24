@@ -79,7 +79,7 @@ Problem 363: "Bezier curves"
 Problem 421: "Prime factors of n^15+1"
 
 * [Divisor function](https://en.wikipedia.org/wiki/Divisor_function)
-Problem 429: "Sum of squares of unitary divisors"
+Problem 429: "Sum of squares of unitary divisors", Problem 501: "Eight Divisors"
 
 * [Divisibility rule](https://en.wikipedia.org/wiki/Divisibility_rule)
 Problem 491: "Double pandigital number divisible by 11"
@@ -90,7 +90,7 @@ Problem 504: "Square on the Inside"
 * [Refraction](https://en.wikipedia.org/wiki/Refraction)
 Problem 607: "Marsh Crossing"
 
-*[Mobius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
+* [Mobius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
 * [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 
