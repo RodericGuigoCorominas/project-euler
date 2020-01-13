@@ -90,6 +90,9 @@ Problem 504: "Square on the Inside"
 * [Refraction](https://en.wikipedia.org/wiki/Refraction)
 Problem 607: "Marsh Crossing"
 
+* [Incomplete gamma function](https://en.wikipedia.org/wiki/Incomplete_gamma_function)
+Problem 697: "Randomly Decaying Sequence"
+
 * [Mobius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
 * [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
@@ -101,4 +104,6 @@ Problem 607: "Marsh Crossing"
 * [Memoization](https://en.wikipedia.org/wiki/Memoization)
 
 * [Binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+* [Gamma function](https://en.wikipedia.org/wiki/Gamma_function)
 
