@@ -10,10 +10,10 @@ My current progress:
 ![](rudarik_progress.png)
 
 * [Partitions](https://en.wikipedia.org/wiki/Partition_(number_theory))
-Problem 76: "Counting Summations", Problem 77: "Prime summations", Problem 78: "Coin partitions". 
+Problem 76: "Counting Summations", Problem 77: "Prime summations", Problem 78: "Coin partitions"
 
 * [Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
-Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains", Problem 243: "Resilience", Problem 351: "Hexagonal orchards"
+Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains", Problem 243: "Resilience", Problem 351: "Hexagonal orchards", Problem 516: "5-smooth totients"
 
 * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 Problem 83: "Path sum, four ways" 
