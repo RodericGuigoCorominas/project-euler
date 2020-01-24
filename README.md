@@ -61,7 +61,7 @@ Problem 144: "Investigating multiple reflections of a laser beam"
 Problem 190: "Maximising a weighted product"
 
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-Problem 191: "Prize Strings"
+Problem 191: "Prize Strings", Problem 249: "Prime Subset Sums"
 
 * [Pythagorean Triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
 Problem 139: "Pythagorean tiles", Problem 218: "Perfect right-angled triangles"
