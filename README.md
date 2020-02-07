@@ -43,7 +43,7 @@ Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends"
 Problem 525: "Rolling ellipse"
 
 * [Binomial coefficient](https://en.wikipedia.org/wiki/Binomial_coefficient)
-Problem 203: "Squarefree Binomial Coefficients", Problem 231: "The prime factorisation of binomial coefficients"
+Problem 203: "Squarefree Binomial Coefficients", Problem 158: "Exploring strings for which only one character comes lexicographically after its neighbour to the left", Problem 231: "The prime factorisation of binomial coefficients"
 
 * [Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
 Problem 401: "Sum of squares of divisors"
@@ -61,7 +61,7 @@ Problem 144: "Investigating multiple reflections of a laser beam"
 Problem 190: "Maximising a weighted product"
 
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-Problem 191: "Prize Strings", Problem 249: "Prime Subset Sums"
+Problem 191: "Prize Strings", Problem 249: "Prime Subset Sums", Problem 250: "250250"
 
 * [Pythagorean Triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
 Problem 139: "Pythagorean tiles", Problem 218: "Perfect right-angled triangles"
@@ -92,6 +92,9 @@ Problem 607: "Marsh Crossing"
 
 * [Incomplete gamma function](https://en.wikipedia.org/wiki/Incomplete_gamma_function)
 Problem 697: "Randomly Decaying Sequence"
+
+* [Euclidean Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+Problem 700: "Eulercoin"
 
 * [Mobius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
