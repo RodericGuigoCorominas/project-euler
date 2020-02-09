@@ -64,7 +64,7 @@ Problem 190: "Maximising a weighted product"
 Problem 191: "Prize Strings", Problem 249: "Prime Subset Sums", Problem 250: "250250"
 
 * [Pythagorean Triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
-Problem 139: "Pythagorean tiles", Problem 218: "Perfect right-angled triangles"
+Problem 138: "Special isosceles triangles", Problem 139: "Pythagorean tiles", Problem 218: "Perfect right-angled triangles"
 
 * [Recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)
 Problem 258: "A lagged Fibonacci sequence"
@@ -95,6 +95,8 @@ Problem 697: "Randomly Decaying Sequence"
 
 * [Euclidean Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 Problem 700: "Eulercoin"
+
+* [Pell's Equation](https://en.wikipedia.org/wiki/Pell%27s_equation)
 
 * [Mobius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
