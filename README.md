@@ -96,6 +96,9 @@ Problem 697: "Randomly Decaying Sequence"
 * [Euclidean Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 Problem 700: "Eulercoin"
 
+* [Tonelli-Shanks Algorithm](https://en.wikipedia.org/wiki/Tonelli%E2%80%93Shanks_algorithm)
+Problem 216: "Investigating the primality of numbers of the form 2n^2-1"
+
 * [Pell's Equation](https://en.wikipedia.org/wiki/Pell%27s_equation)
 
 * [Mobius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
