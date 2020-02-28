@@ -61,7 +61,7 @@ Problem 144: "Investigating multiple reflections of a laser beam"
 Problem 190: "Maximising a weighted product"
 
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-Problem 191: "Prize Strings", Problem 249: "Prime Subset Sums", Problem 250: "250250"
+Problem 178: "Step Numbers", Problem 191: "Prize Strings", Problem 249: "Prime Subset Sums", Problem 250: "250250"
 
 * [Pythagorean Triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
 Problem 138: "Special isosceles triangles", Problem 139: "Pythagorean tiles", Problem 218: "Perfect right-angled triangles"
@@ -99,7 +99,7 @@ Problem 700: "Eulercoin"
 * [Tonelli-Shanks Algorithm](https://en.wikipedia.org/wiki/Tonelli%E2%80%93Shanks_algorithm)
 Problem 216: "Investigating the primality of numbers of the form 2n^2-1"
 
-*[Repunit](https://en.wikipedia.org/wiki/Repunit)
+* [Repunit](https://en.wikipedia.org/wiki/Repunit)
 Problem 129: "Repunit divisibility", Problem 130: "Composites with prime repunit property", Problem 132: "Large repunit factors", Problem 132 "Repunit nonfactors"
 
 * [Pell's Equation](https://en.wikipedia.org/wiki/Pell%27s_equation)
