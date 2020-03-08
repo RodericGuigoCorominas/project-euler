@@ -102,6 +102,9 @@ Problem 216: "Investigating the primality of numbers of the form 2n^2-1"
 * [Repunit](https://en.wikipedia.org/wiki/Repunit)
 Problem 129: "Repunit divisibility", Problem 130: "Composites with prime repunit property", Problem 132: "Large repunit factors", Problem 132 "Repunit nonfactors"
 
+* [Random Sums of Random Variables](http://www.math.unl.edu/~sdunbar1/ProbabilityTheory/Lessons/Conditionals/RandomSums/randsum.shtml)
+Problem 389: "Platonic Dice"
+
 * [Pell's Equation](https://en.wikipedia.org/wiki/Pell%27s_equation)
 
 * [Mobius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
