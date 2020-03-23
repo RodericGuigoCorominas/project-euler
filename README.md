@@ -61,7 +61,7 @@ Problem 144: "Investigating multiple reflections of a laser beam"
 Problem 190: "Maximising a weighted product"
 
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-Problem 178: "Step Numbers", Problem 191: "Prize Strings", Problem 249: "Prime Subset Sums", Problem 250: "250250", Problem 706: "3-Like Numbers"
+Problem 178: "Step Numbers", Problem 191: "Prize Strings", Problem 249: "Prime Subset Sums", Problem 250: "250250", Problem 329: "Prime Frog", Problem 706: "3-Like Numbers"
 
 * [Pythagorean Triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
 Problem 138: "Special isosceles triangles", Problem 139: "Pythagorean tiles", Problem 142: "Perfect Square Collection", Problem 218: "Perfect right-angled triangles"
