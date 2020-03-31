@@ -105,6 +105,16 @@ Problem 129: "Repunit divisibility", Problem 130: "Composites with prime repunit
 * [Random Sums of Random Variables](http://www.math.unl.edu/~sdunbar1/ProbabilityTheory/Lessons/Conditionals/RandomSums/randsum.shtml)
 Problem 389: "Platonic Dice"
 
+* [Lucas Number](https://en.wikipedia.org/wiki/Lucas_number)
+Problem 209: "Circular Logic"
+
+* [Multiplicative Function] (https://en.wikipedia.org/wiki/Multiplicative_function):
+Problem 675: "2^w(n)"
+
+* [Symmetric Polynomial] (https://en.wikipedia.org/wiki/Symmetric_polynomial)
+
+* [Generating Function] (https://en.wikipedia.org/wiki/Generating_function)
+
 * [Berlekamp-Massey Algorithm](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm)
 
 * [Pell's Equation](https://en.wikipedia.org/wiki/Pell%27s_equation)
