@@ -108,12 +108,12 @@ Problem 389: "Platonic Dice"
 * [Lucas Number](https://en.wikipedia.org/wiki/Lucas_number)
 Problem 209: "Circular Logic"
 
-* [Multiplicative Function] (https://en.wikipedia.org/wiki/Multiplicative_function):
+* [Multiplicative Function](https://en.wikipedia.org/wiki/Multiplicative_function):
 Problem 675: "2^w(n)"
 
-* [Symmetric Polynomial] (https://en.wikipedia.org/wiki/Symmetric_polynomial)
+* [Symmetric Polynomial](https://en.wikipedia.org/wiki/Symmetric_polynomial)
 
-* [Generating Function] (https://en.wikipedia.org/wiki/Generating_function)
+* [Generating Function](https://en.wikipedia.org/wiki/Generating_function)
 
 * [Berlekamp-Massey Algorithm](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm)
 
