@@ -111,6 +111,9 @@ Problem 209: "Circular Logic"
 * [Multiplicative Function](https://en.wikipedia.org/wiki/Multiplicative_function):
 Problem 675: "2^w(n)"
 
+* [Alternating Permutation](https://en.wikipedia.org/wiki/Alternating_permutation):
+Problem 709: "Even Stevens"
+
 * [Symmetric Polynomial](https://en.wikipedia.org/wiki/Symmetric_polynomial)
 
 * [Generating Function](https://en.wikipedia.org/wiki/Generating_function)
@@ -132,4 +135,8 @@ Problem 675: "2^w(n)"
 * [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
 * [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
+
+* [Euler Numbers](https://en.wikipedia.org/wiki/Euler_number)
+
+* [Catalan Number](https://en.wikipedia.org/wiki/Catalan_number)
 
