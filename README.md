@@ -108,11 +108,17 @@ Problem 389: "Platonic Dice"
 * [Lucas Number](https://en.wikipedia.org/wiki/Lucas_number)
 Problem 209: "Circular Logic"
 
-* [Multiplicative Function](https://en.wikipedia.org/wiki/Multiplicative_function):
+* [Multiplicative Function](https://en.wikipedia.org/wiki/Multiplicative_function)
 Problem 675: "2^w(n)"
 
-* [Alternating Permutation](https://en.wikipedia.org/wiki/Alternating_permutation):
+* [Alternating Permutation](https://en.wikipedia.org/wiki/Alternating_permutation)
 Problem 709: "Even Stevens"
+
+* [Zeckendorf's Theorem](https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem)
+Problem 366: "Stone Game III"
+
+* [Turan graph](https://en.wikipedia.org/wiki/Tur%C3%A1n_graph)
+Problem 713: "Turan's water heating system"
 
 * [Symmetric Polynomial](https://en.wikipedia.org/wiki/Symmetric_polynomial)
 
