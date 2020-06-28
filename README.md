@@ -67,7 +67,7 @@ Problem 178: "Step Numbers", Problem 191: "Prize Strings", Problem 249: "Prime S
 Problem 138: "Special isosceles triangles", Problem 139: "Pythagorean tiles", Problem 142: "Perfect Square Collection", Problem 218: "Perfect right-angled triangles"
 
 * [Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation)
-Problem 258: "A lagged Fibonacci sequence"
+Problem 258: "A lagged Fibonacci sequence", 710: "One Million Members"
 
 * [Nim](https://en.wikipedia.org/wiki/Nim)
 Problem 301: "Nim"
@@ -79,7 +79,7 @@ Problem 363: "Bezier curves"
 Problem 421: "Prime factors of n^15+1"
 
 * [Divisor Function](https://en.wikipedia.org/wiki/Divisor_function)
-Problem 429: "Sum of squares of unitary divisors", Problem 501: "Eight Divisors"
+Problem 211: "Divisor Square Sum", Problem 429: "Sum of squares of unitary divisors", Problem 501: "Eight Divisors"
 
 * [Divisibility Rule](https://en.wikipedia.org/wiki/Divisibility_rule)
 Problem 491: "Double pandigital number divisible by 11"
@@ -120,6 +120,18 @@ Problem 366: "Stone Game III"
 * [Turan graph](https://en.wikipedia.org/wiki/Tur%C3%A1n_graph)
 Problem 713: "Turan's water heating system"
 
+* [Probability Density Function](https://en.wikipedia.org/wiki/Probability_density_function)
+Problem 394: "Eating pie"
+
+* [Hungarian Algorithm](https://en.wikipedia.org/wiki/Hungarian_algorithm)
+Problem 345: "Matrix sum"
+
+* [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem)
+Problem 134: "Prime pair connection"
+
+* [Lambert Series](https://en.wikipedia.org/wiki/Lambert_series)
+Problem 722: "Slowly converging series"
+
 * [Symmetric Polynomial](https://en.wikipedia.org/wiki/Symmetric_polynomial)
 
 * [Generating Function](https://en.wikipedia.org/wiki/Generating_function)
@@ -133,6 +145,7 @@ Problem 713: "Turan's water heating system"
 * [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 
 * [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series)
+Problem 518: "Prime triples and geometric sequences"
 
 * [Faulhaber's Formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
 
