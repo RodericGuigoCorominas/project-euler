@@ -135,6 +135,10 @@ Problem 722: "Slowly converging series"
 * [Symmetric Polynomial](https://en.wikipedia.org/wiki/Symmetric_polynomial)
 
 * [Generating Function](https://en.wikipedia.org/wiki/Generating_function)
+Problem 137: "Fibonacci golden nuggets", Problem 140: "Modified Fibonacci golden nuggets"
+
+* [Primality test](https://en.wikipedia.org/wiki/Primality_test)
+Problem 146: "Investigating a Prime Pattern" 
 
 * [Berlekamp-Massey Algorithm](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm)
 
