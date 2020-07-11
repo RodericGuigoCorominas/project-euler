@@ -137,8 +137,11 @@ Problem 722: "Slowly converging series"
 * [Generating Function](https://en.wikipedia.org/wiki/Generating_function)
 Problem 137: "Fibonacci golden nuggets", Problem 140: "Modified Fibonacci golden nuggets"
 
-* [Primality test](https://en.wikipedia.org/wiki/Primality_test)
+* [Primality Test](https://en.wikipedia.org/wiki/Primality_test)
 Problem 146: "Investigating a Prime Pattern" 
+
+* [Bernoulli Trial](https://en.wikipedia.org/wiki/Bernoulli_trial)
+Problem 267: "Billionaire"
 
 * [Berlekamp-Massey Algorithm](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm)
 
