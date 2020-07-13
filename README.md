@@ -127,7 +127,7 @@ Problem 394: "Eating pie"
 Problem 345: "Matrix sum"
 
 * [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem)
-Problem 134: "Prime pair connection"
+Problem 134: "Prime pair connection", Problem 451: "Modular inverses"
 
 * [Lambert Series](https://en.wikipedia.org/wiki/Lambert_series)
 Problem 722: "Slowly converging series"
