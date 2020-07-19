@@ -67,7 +67,7 @@ Problem 178: "Step Numbers", Problem 191: "Prize Strings", Problem 249: "Prime S
 Problem 138: "Special isosceles triangles", Problem 139: "Pythagorean tiles", Problem 142: "Perfect Square Collection", Problem 218: "Perfect right-angled triangles"
 
 * [Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation)
-Problem 258: "A lagged Fibonacci sequence", 710: "One Million Members"
+Problem 258: "A lagged Fibonacci sequence", Problem 710: "One Million Members"
 
 * [Nim](https://en.wikipedia.org/wiki/Nim)
 Problem 301: "Nim"
@@ -157,6 +157,7 @@ Problem 321: "Swapping Counters"
 * [Mobius Function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
 * [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
+Problem 304: "Primonacci"
 
 * [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series)
 Problem 518: "Prime triples and geometric sequences"
