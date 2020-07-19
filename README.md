@@ -115,7 +115,7 @@ Problem 675: "2^w(n)"
 Problem 709: "Even Stevens"
 
 * [Zeckendorf's Theorem](https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem)
-Problem 366: "Stone Game III"
+Problem 297: "Zeckendorf Representation", Problem 366: "Stone Game III"
 
 * [Turan graph](https://en.wikipedia.org/wiki/Tur%C3%A1n_graph)
 Problem 713: "Turan's water heating system"
@@ -143,9 +143,16 @@ Problem 146: "Investigating a Prime Pattern"
 * [Bernoulli Trial](https://en.wikipedia.org/wiki/Bernoulli_trial)
 Problem 267: "Billionaire"
 
+* [Trailing Zero](https://en.wikipedia.org/wiki/Trailing_zero)
+Problem 160: "Factorial trailing digits"
+
+* [Prime-Counting Function](https://en.wikipedia.org/wiki/Prime-counting_function)
+Problem 609: "Pi sequences"
+
 * [Berlekamp-Massey Algorithm](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm)
 
 * [Pell's Equation](https://en.wikipedia.org/wiki/Pell%27s_equation)
+Problem 321: "Swapping Counters"
 
 * [Mobius Function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
