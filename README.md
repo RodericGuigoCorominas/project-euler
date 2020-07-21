@@ -37,7 +37,7 @@ Problem 101: "Optimum polynomial"
 Problem 102: "Triangle containment"
 
 * [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_number)
-Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends"
+Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends", Problem 230: "Fibonacci words"
 
 * [Cycloid](https://en.wikipedia.org/wiki/Cycloid)
 Problem 525: "Rolling ellipse"
