@@ -114,6 +114,9 @@ Problem 675: "2^w(n)"
 * [Alternating Permutation](https://en.wikipedia.org/wiki/Alternating_permutation)
 Problem 709: "Even Stevens"
 
+* [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+Problem 118: "Pandigital prime sets"
+
 * [Zeckendorf's Theorem](https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem)
 Problem 297: "Zeckendorf Representation", Problem 366: "Stone Game III"
 
