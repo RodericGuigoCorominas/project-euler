@@ -137,6 +137,9 @@ Problem 722: "Slowly converging series"
 
 * [Symmetric Polynomial](https://en.wikipedia.org/wiki/Symmetric_polynomial)
 
+* [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
+Proble, 148: "Exploring Pascal's triangle"
+
 * [Generating Function](https://en.wikipedia.org/wiki/Generating_function)
 Problem 137: "Fibonacci golden nuggets", Problem 140: "Modified Fibonacci golden nuggets"
 
