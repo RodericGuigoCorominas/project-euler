@@ -155,12 +155,16 @@ Problem 160: "Factorial trailing digits"
 * [Prime-Counting Function](https://en.wikipedia.org/wiki/Prime-counting_function)
 Problem 609: "Pi sequences"
 
+* [Decimal Representation[(https://en.wikipedia.org/wiki/Decimal_representation)
+Problem 183: "Maximum product of parts"
+
 * [Berlekamp-Massey Algorithm](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm)
 
 * [Pell's Equation](https://en.wikipedia.org/wiki/Pell%27s_equation)
 Problem 321: "Swapping Counters"
 
 * [Mobius Function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
+Problem 193: "Squarefree Numbers"
 
 * [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 Problem 304: "Primonacci"
