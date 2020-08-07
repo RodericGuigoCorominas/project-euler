@@ -10,7 +10,7 @@ My current progress:
 ![](rudarik_progress.png)
 
 * [Partitions](https://en.wikipedia.org/wiki/Partition_(number_theory))
-Problem 76: "Counting Summations", Problem 77: "Prime summations", Problem 78: "Coin partitions"
+Problem 76: "Counting Summations", Problem 77: "Prime summations", Problem 78: "Coin partitions", Problem 181: "Investigating in how many ways objects of two different colours can be grouped"
 
 * [Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
 Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains", Problem 243: "Resilience", Problem 351: "Hexagonal orchards", Problem 512: "Sums of totients of powers", Problem 516: "5-smooth totients"
@@ -171,6 +171,8 @@ Problem 304: "Primonacci"
 
 * [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series)
 Problem 518: "Prime triples and geometric sequences"
+
+* [Inclusion-exclusion Principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 
 * [Faulhaber's Formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
 
