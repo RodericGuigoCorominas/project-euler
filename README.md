@@ -67,7 +67,7 @@ Problem 178: "Step Numbers", Problem 191: "Prize Strings", Problem 249: "Prime S
 Problem 138: "Special isosceles triangles", Problem 139: "Pythagorean tiles", Problem 142: "Perfect Square Collection", Problem 218: "Perfect right-angled triangles"
 
 * [Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation)
-Problem 258: "A lagged Fibonacci sequence", Problem 710: "One Million Members"
+Problem 258: "A lagged Fibonacci sequence", Problem 710: "One Million Members", Problem 440: "GCD and Tiling"
 
 * [Nim](https://en.wikipedia.org/wiki/Nim)
 Problem 301: "Nim"
@@ -130,7 +130,7 @@ Problem 394: "Eating pie"
 Problem 345: "Matrix sum"
 
 * [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem)
-Problem 134: "Prime pair connection", Problem 451: "Modular inverses"
+Problem 134: "Prime pair connection", Problem 271: "Modular Cubes, part 1", Problem 451: "Modular inverses"
 
 * [Lambert Series](https://en.wikipedia.org/wiki/Lambert_series)
 Problem 722: "Slowly converging series"
@@ -162,6 +162,9 @@ Problem 183: "Maximum product of parts"
 
 * [Pell's Equation](https://en.wikipedia.org/wiki/Pell%27s_equation)
 Problem 321: "Swapping Counters"
+
+* [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+Problem 196: "Prime triplets"
 
 * [Mobius Function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 Problem 193: "Squarefree Numbers"
