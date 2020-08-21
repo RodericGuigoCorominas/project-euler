@@ -155,7 +155,7 @@ Problem 160: "Factorial trailing digits"
 * [Prime-Counting Function](https://en.wikipedia.org/wiki/Prime-counting_function)
 Problem 609: "Pi sequences"
 
-* [Decimal Representation[(https://en.wikipedia.org/wiki/Decimal_representation)
+* [Decimal Representation](https://en.wikipedia.org/wiki/Decimal_representation)
 Problem 183: "Maximum product of parts"
 
 * [Berlekamp-Massey Algorithm](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm)
