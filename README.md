@@ -175,6 +175,9 @@ Problem 304: "Primonacci"
 * [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series)
 Problem 518: "Prime triples and geometric sequences"
 
+* [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm)
+Problem 213: "Searching for a maximum-sum subsequence"
+
 * [Inclusion-exclusion Principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 
 * [Faulhaber's Formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
