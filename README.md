@@ -157,6 +157,9 @@ Problem 607: "Marsh Crossing"
 * [Riffle Shuffle](http://mathworld.wolfram.com/RiffleShuffle.html)
 Problem 622:  "Riffle Shuffles".
 
+* [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+Problem 182: "RSA encryption"
+
 * [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 Problem 196: "Prime triplets"
 
