@@ -121,6 +121,9 @@ Problem 675: "2^w(n)"
 * [Nim](https://en.wikipedia.org/wiki/Nim)
 Problem 301: "Nim"
 
+* [P-adic order](https://en.wikipedia.org/wiki/P-adic_order)
+Problem 712: "Exponent Difference"
+
 * [Partitions](https://en.wikipedia.org/wiki/Partition_(number_theory))
 Problem 76: "Counting Summations", Problem 77: "Prime summations", Problem 78: "Coin partitions", Problem 181: "Investigating in how many ways objects of two different colours can be grouped"
 
