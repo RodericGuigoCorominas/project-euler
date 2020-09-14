@@ -65,7 +65,7 @@ Problem 700: "Eulercoin"
 * [Faulhaber's Formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
 
 * [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_number)
-Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends", Problem 230: "Fibonacci words"
+Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends", Problem 230: "Fibonacci words", Problem 662: "Fibonacci Paths"
 
 * [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
 
