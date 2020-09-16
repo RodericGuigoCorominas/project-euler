@@ -201,5 +201,8 @@ Problem 118: "Pandigital prime sets"
 * [Repunit](https://en.wikipedia.org/wiki/Repunit)
 Problem 129: "Repunit divisibility", Problem 130: "Composites with prime repunit property", Problem 132: "Large repunit factors", Problem 132 "Repunit nonfactors"
 
+* [Vieta's Formulas](https://en.wikipedia.org/wiki/Vieta%27s_formulas)
+Problem 479: "Roots on the Rise"
+
 * [Zeckendorf's Theorem](https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem)
 Problem 297: "Zeckendorf Representation", Problem 366: "Stone Game III"
