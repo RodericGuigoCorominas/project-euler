@@ -31,7 +31,7 @@ Problem 203: "Squarefree Binomial Coefficients", Problem 158: "Exploring strings
 Problem 724: "Drone Delivery"
 
 * [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem)
-Problem 134: "Prime pair connection", Problem 271: "Modular Cubes, part 1", Problem 451: "Modular inverses"
+Problem 134: "Prime pair connection", Problem 271: "Modular Cubes, part 1", Problem 451: "Modular inverses", Problem 531: "Chinese leftovers"
 
 * [Cyclic Number](https://en.wikipedia.org/wiki/Cyclic_number)
 Problem 358: "Cyclic numbers"
