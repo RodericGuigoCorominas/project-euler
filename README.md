@@ -82,6 +82,7 @@ Problem 102: "Triangle containment"
 Problem 345: "Matrix sum"
 
 * [Inclusion-exclusion Principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
+Problem 657: "Incomplete words"
 
 * [Incomplete gamma function](https://en.wikipedia.org/wiki/Incomplete_gamma_function)
 Problem 697: "Randomly Decaying Sequence"
@@ -184,7 +185,7 @@ Problem 233: "Lattice points on a circle"
 Problem 216: "Investigating the primality of numbers of the form 2n^2-1"
 
 * [Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
-Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains", Problem 243: "Resilience", Problem 351: "Hexagonal orchards", Problem 512: "Sums of totients of powers", Problem 516: "5-smooth totients"
+Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains", Problem 243: "Resilience", Problem 351: "Hexagonal orchards", Problem 512: "Sums of totients of powers", Problem 516: "5-smooth totients", Problem 643: "2-Friendly"
 
 * [Trailing Zero](https://en.wikipedia.org/wiki/Trailing_zero)
 Problem 160: "Factorial trailing digits"
