@@ -42,6 +42,9 @@ Problem 525: "Rolling ellipse"
 * [Decimal Representation](https://en.wikipedia.org/wiki/Decimal_representation)
 Problem 183: "Maximum product of parts"
 
+* [Descartes Theorem](https://en.wikipedia.org/wiki/Descartes%27_theorem)
+Problem 727: "Triangle of Circular Arcs"
+
 * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 Problem 83: "Path sum, four ways" 
 
@@ -175,6 +178,8 @@ Problem 401: "Sum of squares of divisors"
 
 * [Specular Reflection](https://en.wikipedia.org/wiki/Specular_reflection)
 Problem 144: "Investigating multiple reflections of a laser beam" 
+
+* [Stirling Numbers of the Second Kind](https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind)
 
 * [Sum of Squares](https://en.wikipedia.org/wiki/Sum_of_two_squares_theorem)
 Problem 233: "Lattice points on a circle"
