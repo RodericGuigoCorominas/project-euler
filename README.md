@@ -43,7 +43,7 @@ Problem 525: "Rolling ellipse"
 Problem 183: "Maximum product of parts"
 
 * [Descartes Theorem](https://en.wikipedia.org/wiki/Descartes%27_theorem)
-Problem 727: "Triangle of Circular Arcs"
+Problem 199: "Iterative Circle Packing", Problem 727: "Triangle of Circular Arcs"
 
 * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 Problem 83: "Path sum, four ways" 
