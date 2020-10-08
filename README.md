@@ -73,7 +73,7 @@ Problem 2: "Even Fibonacci numbers", Problem 104: "Pandigital Fibonacci ends", P
 * [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
 
 * [Generating Function](https://en.wikipedia.org/wiki/Generating_function)
-Problem 137: "Fibonacci golden nuggets", Problem 140: "Modified Fibonacci golden nuggets"
+Problem 137: "Fibonacci golden nuggets", Problem 140: "Modified Fibonacci golden nuggets", Problem 618: "Numbers with a given prime factor sum"
 
 * [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series)
 Problem 518: "Prime triples and geometric sequences"
@@ -187,7 +187,7 @@ Problem 233: "Lattice points on a circle"
 * [Symmetric Polynomial](https://en.wikipedia.org/wiki/Symmetric_polynomial)
 
 * [Tonelli-Shanks Algorithm](https://en.wikipedia.org/wiki/Tonelli%E2%80%93Shanks_algorithm)
-Problem 216: "Investigating the primality of numbers of the form 2n^2-1"
+Problem 216: "Investigating the primality of numbers of the form 2n^2-1", Problem 659: "Largest prime"
 
 * [Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
 Problems 69: "Totient maximum", Problem 70: "Totient permutation", Problem 214: "Totient chains", Problem 243: "Resilience", Problem 351: "Hexagonal orchards", Problem 512: "Sums of totients of powers", Problem 516: "5-smooth totients", Problem 643: "2-Friendly"
@@ -200,6 +200,9 @@ Problem 713: "Turan's water heating system"
 
 * [Random Sums of Random Variables](http://www.math.unl.edu/~sdunbar1/ProbabilityTheory/Lessons/Conditionals/RandomSums/randsum.shtml)
 Problem 389: "Platonic Dice"
+
+* [Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation)
+Problem 435: "Polynomials of Fibonacci numbers"
 
 * [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
 Problem 118: "Pandigital prime sets"
