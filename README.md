@@ -173,6 +173,9 @@ Problem 182: "RSA encryption"
 * [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 Problem 196: "Prime triplets"
 
+* [Solid of Revolution](https://en.wikipedia.org/wiki/Solid_of_revolution)
+Problem 449: "Chocolate covered candy"
+
 * [Square Pyramidal Number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
 Problem 401: "Sum of squares of divisors"
 
