@@ -51,6 +51,9 @@ Problem 83: "Path sum, four ways"
 * [Diophantine Equation](https://en.wikipedia.org/wiki/Diophantine_equation)
 Problem 100: "Arranged probability"
 
+* [Disjoint-set Data Structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+Problem 186: "Connectedness of a network"
+
 * [Divisibility Rule](https://en.wikipedia.org/wiki/Divisibility_rule)
 Problem 491: "Double pandigital number divisible by 11"
 
