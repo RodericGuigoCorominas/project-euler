@@ -187,6 +187,9 @@ Problem 144: "Investigating multiple reflections of a laser beam"
 
 * [Stirling Numbers of the Second Kind](https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind)
 
+* [Stoneham Number](https://en.wikipedia.org/wiki/Stoneham_number)
+Problem 731: "A Stoneham Number"
+
 * [Sum of Squares](https://en.wikipedia.org/wiki/Sum_of_two_squares_theorem)
 Problem 233: "Lattice points on a circle"
 
