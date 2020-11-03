@@ -214,7 +214,7 @@ Problem 389: "Platonic Dice"
 Problem 435: "Polynomials of Fibonacci numbers"
 
 * [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-Problem 118: "Pandigital prime sets"
+Problem 118: "Pandigital prime sets", Problem 265: "Binary Circles"
 
 * [Repunit](https://en.wikipedia.org/wiki/Repunit)
 Problem 129: "Repunit divisibility", Problem 130: "Composites with prime repunit property", Problem 132: "Large repunit factors", Problem 132 "Repunit nonfactors"
