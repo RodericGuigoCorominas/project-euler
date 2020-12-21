@@ -153,6 +153,8 @@ Problem 213: "Searching for a maximum-sum subsequence"
 
 * [Memoization](https://en.wikipedia.org/wiki/Memoization)
 
+Problem 738: "Counting Ordered Factorisations"
+
 * [Mobius Function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
 Problem 193: "Squarefree Numbers"
