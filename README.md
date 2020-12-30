@@ -19,6 +19,10 @@ Problem 709: "Even Stevens"
 
 Problem 267: "Billionaire"
 
+* [Bertrand's Ballot Theorem](https://en.wikipedia.org/wiki/Bertrand's_ballot_theorem)
+
+Problem 739: "Summation of Summations"
+
 * [Bezier Curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
 
 Problem 363: "Bezier curves"
@@ -89,7 +93,7 @@ Problem 700: "Eulercoin"
 
 * [Faulhaber's Formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
 
-* [Fenwick Tree[(https://en.wikipedia.org/wiki/Fenwick_tree)
+* [Fenwick Tree](https://en.wikipedia.org/wiki/Fenwick_tree)
 
 Problem 733: "Ascending subsequences"
 
