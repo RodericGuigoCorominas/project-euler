@@ -296,7 +296,7 @@ My current progress:
 
 * [Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
 
-    * Problems 69: "Totient maximum"
+    * Problem 69: "Totient maximum"
     * Problem 70: "Totient permutation"
     * Problem 214: "Totient chains"
     * Problem 243: "Resilience"
@@ -338,4 +338,5 @@ My current progress:
 
 * [Zeckendorf's Theorem](https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem)
 
-    * Problem 297: "Zeckendorf Representation", Problem 366: "Stone Game III"
+    * Problem 297: "Zeckendorf Representation"
+    * Problem 366: "Stone Game III"
