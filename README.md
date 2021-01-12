@@ -97,7 +97,9 @@ My current progress:
     * Problem 249: "Prime Subset Sums"
     * Problem 250: "250250"
     * Problem 329: "Prime Frog"
+    * Problem 679: "Freefarea"
     * Problem 706: "3-Like Numbers"
+    
 
 * [Euclidean Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
@@ -119,6 +121,10 @@ My current progress:
     * Problem 662: "Fibonacci Paths"
 
 * [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
+
+* [Gaussian Integer](https://en.wikipedia.org/wiki/Gaussian_integer)
+
+    * Problem 153: "Investigating Gaussian Integers"
 
 * [Generating Function](https://en.wikipedia.org/wiki/Generating_function)
 
