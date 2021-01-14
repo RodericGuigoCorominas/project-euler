@@ -156,6 +156,9 @@ My current progress:
 
     * Problem 101: "Optimum polynomial"
 
+* [Intersection (Euclidean Geometry)](https://en.wikipedia.org/wiki/Intersection_(Euclidean_geometry)
+    * Problem 165: "Intersections"
+
 * [Kruskal's Algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
 
     * Problem 107: "Minimal network"
