@@ -36,6 +36,8 @@ My current progress:
     * Problem 158: "Exploring strings for which only one character comes lexicographically after its neighbour to the left"
     * Problem 231: "The prime factorisation of binomial coefficients"
 
+* [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub)
+
 * [Catalan Number](https://en.wikipedia.org/wiki/Catalan_number)
 
 * [Coupon Collector's Problem](https://en.wikipedia.org/wiki/Coupon_collector%27s_problem)
@@ -198,6 +200,10 @@ My current progress:
 * [Multinomial Coefficient](https://en.wikipedia.org/wiki/Multinomial_theorem)
 
     * Problem 113: "Non-bouncy numbers"
+
+* [Multiplciation Algorithm](https://en.wikipedia.org/wiki/Multiplication_algorithm)
+
+    * Problem 168: "Number Rotations"
 
 * [Multiplicative Function](https://en.wikipedia.org/wiki/Multiplicative_function)
 
