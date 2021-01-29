@@ -181,6 +181,10 @@ My current progress:
 
     * Problem 209: "Circular Logic"
 
+* [Lucas Theorem](https://en.wikipedia.org/wiki/Lucas%27s_theorem)
+
+    * Problem 365: "A huge binomial coefficient"
+
 * [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm)
 
     * Problem 213: "Searching for a maximum-sum subsequence"
