@@ -154,6 +154,10 @@ My current progress:
 
     * Problem 697: "Randomly Decaying Sequence"
 
+* [Independence (Probability Theory)](https://en.wikipedia.org/wiki/Independence_(probability_theory))
+
+    * Problem 213: "Flea Circus"
+
 * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
 
     * Problem 101: "Optimum polynomial"
