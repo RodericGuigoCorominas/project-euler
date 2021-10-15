@@ -72,6 +72,7 @@ My current progress:
 * [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
     * Problem 83: "Path sum, four ways" 
+    * Problem 353: "Risky moon"
 
 * [Diophantine Equation](https://en.wikipedia.org/wiki/Diophantine_equation)
 
