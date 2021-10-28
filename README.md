@@ -29,7 +29,6 @@ My current progress:
 
 * [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
-
 * [Binomial Coefficient](https://en.wikipedia.org/wiki/Binomial_coefficient)
 
     * Problem 203: "Squarefree Binomial Coefficients"
@@ -92,6 +91,10 @@ My current progress:
     * Problem 429: "Sum of squares of unitary divisors"
     * Problem 501: "Eight Divisors"
     * Problem 561: "Divisor Pairs"
+
+* [Double-ended queue](https://en.wikipedia.org/wiki/Double-ended_queue)
+
+    * Problem 485: "Maximum number of divisors"
 
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 
