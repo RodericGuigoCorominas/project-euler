@@ -91,6 +91,7 @@ My current progress:
     * Problem 211: "Divisor Square Sum"
     * Problem 429: "Sum of squares of unitary divisors"
     * Problem 501: "Eight Divisors"
+    * Problem 561: "Divisor Pairs"
 
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 
@@ -194,6 +195,10 @@ My current progress:
 
     * Problem 213: "Searching for a maximum-sum subsequence"
 
+* [McCarthy 91 function](https://en.wikipedia.org/wiki/McCarthy_91_function)
+
+    * Problem 555: "McCarthy 91 function"
+
 * [Memoization](https://en.wikipedia.org/wiki/Memoization)
 
     * Problem 738: "Counting Ordered Factorisations"
@@ -271,6 +276,10 @@ My current progress:
 * [Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation)
 
     * Problem 258: "A lagged Fibonacci sequence", Problem 710: "One Million Members", Problem 440: "GCD and Tiling"
+
+* [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+
+    * Problem 152: "Writing 1/2 as a sum of inverse squares"
 
 * [Refraction](https://en.wikipedia.org/wiki/Refraction)
 
