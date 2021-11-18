@@ -76,6 +76,7 @@ My current progress:
 * [Diophantine Equation](https://en.wikipedia.org/wiki/Diophantine_equation)
 
     * Problem 100: "Arranged probability"
+    * Problem 157: "Solving the diophantine equation 1/a+1/b= p/10n"
 
 * [Disjoint-set Data Structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 
@@ -126,6 +127,10 @@ My current progress:
     * Problem 104: "Pandigital Fibonacci ends"
     * Problem 230: "Fibonacci words"
     * Problem 662: "Fibonacci Paths"
+
+* [Fractal](https://ca.wikipedia.org/wiki/Fractal)
+
+    * Problem 395: "Pythagorean tree"
 
 * [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
 
@@ -240,6 +245,7 @@ My current progress:
     * Problem 77: "Prime summations"
     * Problem 78: "Coin partitions"
     * Problem 181: "Investigating in how many ways objects of two different colours can be grouped"
+    * Problem 772: "Balanceable k-bounded partitions"
 
 * [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
 
@@ -275,6 +281,7 @@ My current progress:
     * Problem 139: "Pythagorean tiles"
     * Problem 142: "Perfect Square Collection"
     * Problem 218: "Perfect right-angled triangles"
+    * Problem 764: "Asymmetric Diophantine Equation"
 
 * [Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation)
 
