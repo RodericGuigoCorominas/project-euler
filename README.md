@@ -245,6 +245,7 @@ My current progress:
     * Problem 77: "Prime summations"
     * Problem 78: "Coin partitions"
     * Problem 181: "Investigating in how many ways objects of two different colours can be grouped"
+    * Problem 333: "Special partitions"
     * Problem 772: "Balanceable k-bounded partitions"
 
 * [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
