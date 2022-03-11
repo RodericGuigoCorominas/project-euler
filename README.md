@@ -34,6 +34,7 @@ My current progress:
     * Problem 203: "Squarefree Binomial Coefficients"
     * Problem 158: "Exploring strings for which only one character comes lexicographically after its neighbour to the left"
     * Problem 231: "The prime factorisation of binomial coefficients"
+    * Problem 788: "Dominating Numbers"
 
 * [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub)
 
@@ -214,6 +215,7 @@ My current progress:
 * [Mobius Function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
     * Problem 193: "Squarefree Numbers"
+    * Problem 787: "Bezout's Game"
 
 * [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 
