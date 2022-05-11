@@ -286,17 +286,38 @@ My current progress:
     * Problem 218: "Perfect right-angled triangles"
     * Problem 764: "Asymmetric Diophantine Equation"
 
+* [Random Sums of Random Variables](http://www.math.unl.edu/~sdunbar1/ProbabilityTheory/Lessons/Conditionals/RandomSums/randsum.shtml)
+
+    * Problem 389: "Platonic Dice"
+
 * [Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation)
 
-    * Problem 258: "A lagged Fibonacci sequence", Problem 710: "One Million Members", Problem 440: "GCD and Tiling"
+    * Problem 258: "A lagged Fibonacci sequence"
+    * Problem 710: "One Million Members"
+    * Problem 440: "GCD and Tiling"
+    * Problem 435: "Polynomials of Fibonacci numbers"
 
 * [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-
+    
+    * Problem 118: "Pandigital prime sets"
     * Problem 152: "Writing 1/2 as a sum of inverse squares"
+    * Problem 265: "Binary Circles"
 
 * [Refraction](https://en.wikipedia.org/wiki/Refraction)
 
     * Problem 607: "Marsh Crossing"
+
+* [Repeating decimal](https://en.wikipedia.org/wiki/Repeating_decimal)
+
+    * Problem 26: "Reciprocal cycles"
+    * Problem 417: "Reciprocal cycles II"
+
+* [Repunit](https://en.wikipedia.org/wiki/Repunit)
+
+    * Problem 129: "Repunit divisibility"
+    * Problem 130: "Composites with prime repunit property"
+    * Problem 132: "Large repunit factors"
+    * Problem 132 "Repunit nonfactors"
 
 * [Riffle Shuffle](http://mathworld.wolfram.com/RiffleShuffle.html)
 
@@ -321,6 +342,7 @@ My current progress:
 * [Specular Reflection](https://en.wikipedia.org/wiki/Specular_reflection)
 
     * Problem 144: "Investigating multiple reflections of a laser beam" 
+    * Problem 202: "Laserbeam"
 
 * [Stirling Numbers of the Second Kind](https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind)
 
@@ -355,28 +377,14 @@ My current progress:
 
     * Problem 160: "Factorial trailing digits"
 
+* [Trinomial expansion](https://en.wikipedia.org/wiki/Trinomial_expansion)
+
+    * Problem 154: "Exploring Pascal's pyramid"
+
 * [Turan graph](https://en.wikipedia.org/wiki/Tur%C3%A1n_graph)
 
     * Problem 713: "Turan's water heating system"
 
-* [Random Sums of Random Variables](http://www.math.unl.edu/~sdunbar1/ProbabilityTheory/Lessons/Conditionals/RandomSums/randsum.shtml)
-
-    * Problem 389: "Platonic Dice"
-
-* [Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation)
-
-    * Problem 435: "Polynomials of Fibonacci numbers"
-
-* [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-
-    * Problem 118: "Pandigital prime sets", Problem 265: "Binary Circles"
-
-* [Repunit](https://en.wikipedia.org/wiki/Repunit)
-
-    * Problem 129: "Repunit divisibility"
-    * Problem 130: "Composites with prime repunit property"
-    * Problem 132: "Large repunit factors"
-    * Problem 132 "Repunit nonfactors"
 
 * [Vieta's Formulas](https://en.wikipedia.org/wiki/Vieta%27s_formulas)
 
