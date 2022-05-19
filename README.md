@@ -109,6 +109,9 @@ My current progress:
     * Problem 679: "Freefarea"
     * Problem 706: "3-Like Numbers"
     
+* [Eisenstein Triple](https://en.wikipedia.org/wiki/Eisenstein_triple)
+
+    * Problem 195: "Inscribed circles of triangles with one angle of 60 degrees"
 
 * [Euclidean Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
