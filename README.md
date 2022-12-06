@@ -36,9 +36,17 @@ My current progress:
     * Problem 231: "The prime factorisation of binomial coefficients"
     * Problem 788: "Dominating Numbers"
 
+* [Bitwise Xor](https://en.wikipedia.org/wiki/Bitwise_operation#:~:text=A%20bitwise%20XOR%20is%20a,0%20or%20both%20are%201.)
+    
+    * Problem 81: "XOR-Primes"
+
 * [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub)
 
 * [Catalan Number](https://en.wikipedia.org/wiki/Catalan_number)
+
+* [Closest pair of points problem](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem)
+
+    * Problem 816: Shortest distance among points
 
 * [Coupon Collector's Problem](https://en.wikipedia.org/wiki/Coupon_collector%27s_problem)
 
