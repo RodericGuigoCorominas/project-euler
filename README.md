@@ -235,6 +235,7 @@ My current progress:
 * [Multinomial Coefficient](https://en.wikipedia.org/wiki/Multinomial_theorem)
 
     * Problem 113: "Non-bouncy numbers"
+    * Problem 885: "Sorted Digits"
 
 * [Multiplciation Algorithm](https://en.wikipedia.org/wiki/Multiplication_algorithm)
 
@@ -272,6 +273,10 @@ My current progress:
 * [Pick's Theorem](https://en.wikipedia.org/wiki/Pick%27s_theorem)
 
     * Problem 504: "Square on the Inside"
+
+* [Pisano Period](https://en.wikipedia.org/wiki/Pisano_period)
+
+    * Problem 853: "Pisano Periods 1"
 
 * [Primality Test](https://en.wikipedia.org/wiki/Primality_test)
 
@@ -337,6 +342,10 @@ My current progress:
 * [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 
     * Problem 182: "RSA encryption"
+
+* [Set Cover Problem](https://en.wikipedia.org/wiki/Set_cover_problem)
+
+    * Problem 838: "Not Coprime"
 
 * [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
