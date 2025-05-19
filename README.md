@@ -87,6 +87,10 @@ My current progress:
     * Problem 100: "Arranged probability"
     * Problem 157: "Solving the diophantine equation 1/a+1/b= p/10n"
 
+* [Dirichlet Hyperbola Method](https://en.wikipedia.org/wiki/Dirichlet_hyperbola_method)
+
+    * Problem 944: "Sum of Elevisors"
+
 * [Disjoint-set Data Structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 
     * Problem 186: "Connectedness of a network"
@@ -159,6 +163,10 @@ My current progress:
 * [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series)
 
     * Problem 518: "Prime triples and geometric sequences"
+
+* [Goldbach's Conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture)
+
+    * Problem 543: "Prime-Sum Numbers"
 
 * [Heron's Formula](https://en.wikipedia.org/wiki/Heron%27s_formula)
 
@@ -299,6 +307,7 @@ My current progress:
     * Problem 138: "Special isosceles triangles"
     * Problem 139: "Pythagorean tiles"
     * Problem 142: "Perfect Square Collection"
+    * Problem 176: "Common Cathetus Right-angled Triangles"
     * Problem 218: "Perfect right-angled triangles"
     * Problem 764: "Asymmetric Diophantine Equation"
 
@@ -396,6 +405,10 @@ My current progress:
 * [Trailing Zero](https://en.wikipedia.org/wiki/Trailing_zero)
 
     * Problem 160: "Factorial trailing digits"
+
+* [Triangle](https://en.wikipedia.org/wiki/Triangle)
+
+    * Problem 914: "Triangles inside Circles"
 
 * [Trinomial expansion](https://en.wikipedia.org/wiki/Trinomial_expansion)
 
