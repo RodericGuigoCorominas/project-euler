@@ -380,6 +380,10 @@ My current progress:
 
     * Problem 731: "A Stoneham Number"
 
+* [Stormer's Theorem](https://en.wikipedia.org/wiki/Størmer%27s_theorem)
+
+    * Problem 581: "47-smooth Triangular Numbers"
+
 * [Sum of Squares](https://en.wikipedia.org/wiki/Sum_of_two_squares_theorem)
 
     * Problem 233: "Lattice points on a circle"
