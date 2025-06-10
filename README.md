@@ -179,6 +179,7 @@ My current progress:
 * [Inclusion-exclusion Principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 
     * Problem 657: "Incomplete words"
+    * Problem 754: "Product of Gauss Factorials"
 
 * [Incomplete gamma function](https://en.wikipedia.org/wiki/Incomplete_gamma_function)
 
