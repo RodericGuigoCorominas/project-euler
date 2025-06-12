@@ -231,6 +231,7 @@ My current progress:
 * [Memoization](https://en.wikipedia.org/wiki/Memoization)
 
     * Problem 738: "Counting Ordered Factorisations"
+    * Problem 884: "Removing Cubes"
 
 * [Mobius Function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
